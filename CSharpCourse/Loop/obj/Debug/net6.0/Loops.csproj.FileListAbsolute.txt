@@ -1,0 +1,14 @@
+C:\Users\YIGIT\source\repos\CSharpCourse\Loop\bin\Debug\net6.0\Loops.exe
+C:\Users\YIGIT\source\repos\CSharpCourse\Loop\bin\Debug\net6.0\Loops.deps.json
+C:\Users\YIGIT\source\repos\CSharpCourse\Loop\bin\Debug\net6.0\Loops.runtimeconfig.json
+C:\Users\YIGIT\source\repos\CSharpCourse\Loop\bin\Debug\net6.0\Loops.dll
+C:\Users\YIGIT\source\repos\CSharpCourse\Loop\bin\Debug\net6.0\Loops.pdb
+C:\Users\YIGIT\source\repos\CSharpCourse\Loop\obj\Debug\net6.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YIGIT\source\repos\CSharpCourse\Loop\obj\Debug\net6.0\Loops.AssemblyInfoInputs.cache
+C:\Users\YIGIT\source\repos\CSharpCourse\Loop\obj\Debug\net6.0\Loops.AssemblyInfo.cs
+C:\Users\YIGIT\source\repos\CSharpCourse\Loop\obj\Debug\net6.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\YIGIT\source\repos\CSharpCourse\Loop\obj\Debug\net6.0\Loops.dll
+C:\Users\YIGIT\source\repos\CSharpCourse\Loop\obj\Debug\net6.0\refint\Loops.dll
+C:\Users\YIGIT\source\repos\CSharpCourse\Loop\obj\Debug\net6.0\Loops.pdb
+C:\Users\YIGIT\source\repos\CSharpCourse\Loop\obj\Debug\net6.0\Loops.genruntimeconfig.cache
+C:\Users\YIGIT\source\repos\CSharpCourse\Loop\obj\Debug\net6.0\ref\Loops.dll

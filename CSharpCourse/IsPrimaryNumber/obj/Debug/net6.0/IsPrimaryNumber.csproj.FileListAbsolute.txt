@@ -1,0 +1,14 @@
+C:\Users\YIGIT\source\repos\CSharpCourse\IsPrimaryNumber\bin\Debug\net6.0\IsPrimaryNumber.exe
+C:\Users\YIGIT\source\repos\CSharpCourse\IsPrimaryNumber\bin\Debug\net6.0\IsPrimaryNumber.deps.json
+C:\Users\YIGIT\source\repos\CSharpCourse\IsPrimaryNumber\bin\Debug\net6.0\IsPrimaryNumber.runtimeconfig.json
+C:\Users\YIGIT\source\repos\CSharpCourse\IsPrimaryNumber\bin\Debug\net6.0\IsPrimaryNumber.dll
+C:\Users\YIGIT\source\repos\CSharpCourse\IsPrimaryNumber\bin\Debug\net6.0\IsPrimaryNumber.pdb
+C:\Users\YIGIT\source\repos\CSharpCourse\IsPrimaryNumber\obj\Debug\net6.0\IsPrimaryNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YIGIT\source\repos\CSharpCourse\IsPrimaryNumber\obj\Debug\net6.0\IsPrimaryNumber.AssemblyInfoInputs.cache
+C:\Users\YIGIT\source\repos\CSharpCourse\IsPrimaryNumber\obj\Debug\net6.0\IsPrimaryNumber.AssemblyInfo.cs
+C:\Users\YIGIT\source\repos\CSharpCourse\IsPrimaryNumber\obj\Debug\net6.0\IsPrimaryNumber.csproj.CoreCompileInputs.cache
+C:\Users\YIGIT\source\repos\CSharpCourse\IsPrimaryNumber\obj\Debug\net6.0\IsPrimaryNumber.dll
+C:\Users\YIGIT\source\repos\CSharpCourse\IsPrimaryNumber\obj\Debug\net6.0\refint\IsPrimaryNumber.dll
+C:\Users\YIGIT\source\repos\CSharpCourse\IsPrimaryNumber\obj\Debug\net6.0\IsPrimaryNumber.pdb
+C:\Users\YIGIT\source\repos\CSharpCourse\IsPrimaryNumber\obj\Debug\net6.0\IsPrimaryNumber.genruntimeconfig.cache
+C:\Users\YIGIT\source\repos\CSharpCourse\IsPrimaryNumber\obj\Debug\net6.0\ref\IsPrimaryNumber.dll

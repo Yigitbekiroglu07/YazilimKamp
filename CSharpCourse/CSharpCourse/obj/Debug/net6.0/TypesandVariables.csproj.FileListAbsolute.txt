@@ -1,0 +1,14 @@
+C:\Users\YIGIT\source\repos\CSharpCourse\CSharpCourse\bin\Debug\net6.0\TypesandVariables.exe
+C:\Users\YIGIT\source\repos\CSharpCourse\CSharpCourse\bin\Debug\net6.0\TypesandVariables.deps.json
+C:\Users\YIGIT\source\repos\CSharpCourse\CSharpCourse\bin\Debug\net6.0\TypesandVariables.runtimeconfig.json
+C:\Users\YIGIT\source\repos\CSharpCourse\CSharpCourse\bin\Debug\net6.0\TypesandVariables.dll
+C:\Users\YIGIT\source\repos\CSharpCourse\CSharpCourse\bin\Debug\net6.0\TypesandVariables.pdb
+C:\Users\YIGIT\source\repos\CSharpCourse\CSharpCourse\obj\Debug\net6.0\TypesandVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YIGIT\source\repos\CSharpCourse\CSharpCourse\obj\Debug\net6.0\TypesandVariables.AssemblyInfoInputs.cache
+C:\Users\YIGIT\source\repos\CSharpCourse\CSharpCourse\obj\Debug\net6.0\TypesandVariables.AssemblyInfo.cs
+C:\Users\YIGIT\source\repos\CSharpCourse\CSharpCourse\obj\Debug\net6.0\TypesandVariables.csproj.CoreCompileInputs.cache
+C:\Users\YIGIT\source\repos\CSharpCourse\CSharpCourse\obj\Debug\net6.0\TypesandVariables.dll
+C:\Users\YIGIT\source\repos\CSharpCourse\CSharpCourse\obj\Debug\net6.0\refint\TypesandVariables.dll
+C:\Users\YIGIT\source\repos\CSharpCourse\CSharpCourse\obj\Debug\net6.0\TypesandVariables.pdb
+C:\Users\YIGIT\source\repos\CSharpCourse\CSharpCourse\obj\Debug\net6.0\TypesandVariables.genruntimeconfig.cache
+C:\Users\YIGIT\source\repos\CSharpCourse\CSharpCourse\obj\Debug\net6.0\ref\TypesandVariables.dll
