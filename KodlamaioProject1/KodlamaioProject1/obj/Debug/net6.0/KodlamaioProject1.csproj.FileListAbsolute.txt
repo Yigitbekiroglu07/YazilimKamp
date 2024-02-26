@@ -1,0 +1,4 @@
+C:\Users\YIGIT\source\repos\KodlamaioProject1\KodlamaioProject1\obj\Debug\net6.0\KodlamaioProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YIGIT\source\repos\KodlamaioProject1\KodlamaioProject1\obj\Debug\net6.0\KodlamaioProject1.AssemblyInfoInputs.cache
+C:\Users\YIGIT\source\repos\KodlamaioProject1\KodlamaioProject1\obj\Debug\net6.0\KodlamaioProject1.AssemblyInfo.cs
+C:\Users\YIGIT\source\repos\KodlamaioProject1\KodlamaioProject1\obj\Debug\net6.0\KodlamaioProject1.csproj.CoreCompileInputs.cache

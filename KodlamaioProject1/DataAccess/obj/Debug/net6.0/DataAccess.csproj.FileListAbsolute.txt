@@ -1,0 +1,4 @@
+C:\Users\YIGIT\source\repos\KodlamaioProject1\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YIGIT\source\repos\KodlamaioProject1\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\YIGIT\source\repos\KodlamaioProject1\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\YIGIT\source\repos\KodlamaioProject1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
